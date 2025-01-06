@@ -1,4 +1,5 @@
 # Banking System Web Application
+#  🏦 Banking System Project
 ## Introduction
 This is a web-based **Banking System** that provides users with a platform to manage their accounts and banking services efficiently and securely. The application offers core functionality like user login and access to banking services through an intuitive web interface built using modern technologies.
 The landing page of the application welcomes users and provides navigation to login or other services. The application's architecture is built around JSP (Java Server Pages) for UI rendering and potentially servlets for backend business logic.
